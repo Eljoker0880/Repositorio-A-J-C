@@ -1,0 +1,14 @@
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\bin\Debug\net10.0\AdminGym.exe
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\bin\Debug\net10.0\AdminGym.deps.json
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\bin\Debug\net10.0\AdminGym.runtimeconfig.json
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\bin\Debug\net10.0\AdminGym.dll
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\bin\Debug\net10.0\AdminGym.pdb
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\obj\Debug\net10.0\AdminGym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\obj\Debug\net10.0\AdminGym.AssemblyInfoInputs.cache
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\obj\Debug\net10.0\AdminGym.AssemblyInfo.cs
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\obj\Debug\net10.0\AdminGym.csproj.CoreCompileInputs.cache
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\obj\Debug\net10.0\AdminGym.dll
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\obj\Debug\net10.0\refint\AdminGym.dll
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\obj\Debug\net10.0\AdminGym.pdb
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\obj\Debug\net10.0\AdminGym.genruntimeconfig.cache
+C:\Users\AlanB\Desktop\AdminGym2\AdminGym\obj\Debug\net10.0\ref\AdminGym.dll

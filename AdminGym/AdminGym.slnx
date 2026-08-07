@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../Nueva carpeta (7)/Nueva carpeta (6)/AdminGymSolution4/src/AdminGym.Business/AdminGym.Business.csproj" />
+  <Project Path="../../Nueva carpeta (7)/Nueva carpeta (6)/AdminGymSolution4/src/AdminGym.ConsoleUI/AdminGym.ConsoleUI.csproj" />
+  <Project Path="../../Nueva carpeta (7)/Nueva carpeta (6)/AdminGymSolution4/src/AdminGym.DataAccess/AdminGym.DataAccess.csproj" />
+  <Project Path="../../Nueva carpeta (7)/Nueva carpeta (6)/AdminGymSolution4/src/AdminGym.Domain/AdminGym.Domain.csproj" />
+</Solution>
